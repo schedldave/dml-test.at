@@ -15,3 +15,5 @@ gem "jekyll-sitemap", "~> 1.4"
 gem "wdm", "~> 0.1.1" if Gem.win_platform?
 
 gem "webrick", "~> 1.7"
+
+gem 'github-pages', group: :jekyll_plugins
