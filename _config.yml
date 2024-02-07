@@ -10,7 +10,7 @@ title: DML | Digital Media Lab
 email: dml@fh-hagenberg.at
 description: Digital Media Lab (DML) - advancing the frontiers of digital interactions through innovative research in UX design, spatial computing, large language model applications, web applications, and process mining.
 #baseurl: "/pie.fh-hagenberg.at" # the subpath of your site, e.g. /blog
-url: "https://digitalmedialab.at" # the base hostname & protocol for your site
+url: "schedldave.github.io/dml-test.at/" # LATER: "https://digitalmedialab.at" # the base hostname & protocol for your site
 #facebook: playful.interactive.environments
 
 # Build settings
