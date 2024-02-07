@@ -1,0 +1,29 @@
+---
+layout: page
+permalink: /areas/
+---
+
+<div class="wrapper projects">
+    <h1>Research Areas</h1>
+    {% assign projectInCategory = site.areas %}
+    <div class="projects-group grid-wrapper">
+        {% for project in projectInCategory %}
+        <div class="projects-item">
+            {% if project.titleimage %}
+            {% assign remote = project.titleimage | slice: 0, 4 %}
+            {% if remote == "http" %}
+            {% assign imageurl = project.titleimage %}
+            {% else %}
+            {% assign imageurl = project.titleimage | prepend: project.url | prepend: site.baseurl %}
+            {% endif %}
+            {% else %}
+            {% assign imageurl = "//placehold.it/300x500?text=" | append: project.title |replace: "'", '' | uri_escape
+            %}
+            {%endif%}
+            <a href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}"
+                style="background-image: url({{imageurl}})" data-title="{{ project.title }}">
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+</div>

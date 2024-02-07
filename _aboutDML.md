@@ -1,0 +1,7 @@
+## About Digital Media Lab
+
+Digital Media Lab is a leading-edge research group established by the [Department of Digital Media](https://www.fh-ooe.at/campus-hagenberg/die-fakultaet/departments/) at the University of Applied Sciences Upper Austria, [School of Informatics, Communication and Media](https://www.fh-ooe.at/en/hagenberg-campus/) in Hagenberg. Our dynamic group explores avant-garde and intuitive digital interaction modes, leveraging the power of playful mechanisms to incentivize specific behavioral dynamics.
+
+In a progressive collaboration with partners from the realms of media psychology and usability, we delve into the realm of perception studies surrounding computer-generated characters and the concept, execution, and appraisal of interactive environments. Our broad research spectrum spans across large public displays, projection mapping, co-located games, serious games, gamification, audio reactive installations, and non-linear narratives.
+
+Continuing our trajectory of being in the vanguard of digital research, the Digital Media Lab has expanded its areas of inquiry to encapsulate the burgeoning fields of visual computing UX design, spatial computing, Large Language Model Applications, web applications, and process mining. By embracing these emergent arenas, we aim to enrich our understanding and carve distinctive trails within the expansive landscape of digital media.

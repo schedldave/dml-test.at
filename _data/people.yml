@@ -1,9 +1,18 @@
+- name: Dr. David Schedl 
+  group: 1
+  photo: david-schedl.jpg
+  phone: +43 (0)50804 22127
+  email: david.schedl@fh-hagenberg.at
+  projects: [BAMBI, TexEdge]
+  areas: [Visual Computing, Tangible Interfaces]
+
 - name: Dr. Michael Lankes
   group: 1
   photo: michael-lankes.jpg
   phone: +43 (0)50804 22133
   email: michael.lankes@fh-hagenberg.at
   projects: [Expanded Animation Symposium, The Virtual House of Medusa, GEMPLAY, InterPlayces, Mühlviertel Pur App]
+  areas: [Games and Playful Experiences]
 
 - name: Dr. Jürgen Hagler
   group: 1
@@ -11,6 +20,7 @@
   phone: +43 (0)50804 22124
   email: juergen.hagler@fh-hagenberg.at
   projects: [Expanded Animation Symposium, The Virtual House of Medusa, Bike'N'Play, InterPlayces, PIEdeck]
+  areas: [Games and Playful Experiences]
 
 - name: Jeremiah Diephuis, MA
   group: 2
@@ -18,6 +28,7 @@
   phone: +43 (0)50804 22122
   email: jeremiah.diephuis@fh-hagenberg.at
   projects: [Expanded Animation Symposium, CATRINA, HektAR, The Virtual House of Medusa, Logistify, Play!UC, ZIEGE, Game Changer, PIEdeck, Cargo]
+  areas: [Games and Playful Experiences]
 
 - name: Wolfgang Hochleitner, MSc
   group: 2

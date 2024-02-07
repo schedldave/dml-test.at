@@ -2,6 +2,10 @@
   link: ""
   weight: 10
 
+- name: "Research"
+  link: "areas/"
+  weight: 15
+
 - name: "People"
   link: "people/"
   weight: 20
@@ -10,18 +14,18 @@
   link: "projects/"
   weight: 30
 
-- name: "Publications"
-  link: "publications/"
-  weight: 40
+#- name: "Publications"
+#  link: "publications/"
+#  weight: 40
 
-- name: "Press"
-  link: "press/"
-  weight: 50
+#- name: "Press"
+#  link: "press/"
+#  weight: 50
 
 - name: "Partners"
   link: "partners/"
   weight: 60
 
-- name: "Contact"
-  link: "contact/"
-  weight: 70
+#- name: "Contact"
+#  link: "contact/"
+#  weight: 70

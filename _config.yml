@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: PIE | Playful Interactive Environments
-email: pie@fh-hagenberg.at
-description: Playful Interactive Environments is a research group founded by the Department of Digital Media at the University of Applied Sciences Upper Austria, School of Informatics, Communication and Media in Hagenberg.
+title: DML | Digital Media Lab 
+email: dml@fh-hagenberg.at
+description: Digital Media Lab (DML) - advancing the frontiers of digital interactions through innovative research in UX design, spatial computing, large language model applications, web applications, and process mining.
 #baseurl: "/pie.fh-hagenberg.at" # the subpath of your site, e.g. /blog
-url: "https://pie-lab.at" # the base hostname & protocol for your site
-facebook: playful.interactive.environments
+url: "https://digitalmedialab.at" # the base hostname & protocol for your site
+#facebook: playful.interactive.environments
 
 # Build settings
 markdown: kramdown
@@ -35,9 +35,16 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  areas:
+    output: true
+    permalink: /areas/:path/
 
 defaults:
   - scope:
       type: projects
     values:
       layout: project
+  - scope:
+      type: areas
+    values:
+      layout: area

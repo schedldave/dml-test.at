@@ -16,7 +16,6 @@ gallery:
     description: "Bike'N'Play smartwatch mockup"
     author: "FluidTime"
 ---
-
 The project Bike'N'Play develops gaming approaches for the integration of cycling data into popular computer games of different game genres. By utilizing existing games, the target group of non-cyclists can be reached and motivated to start cycling.
 
 The main aspects for the success of the project proposal and its continued utilization are the application and advancement of innovative interaction platforms (wearables), the development of gaming approaches for different persuasion and player types, and the conception of interfaces that enable games manufacturers to integrate mobility data into their games.
