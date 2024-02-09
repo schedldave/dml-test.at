@@ -1,48 +1,20 @@
-- file: "projects/game-changer/game-changer-top.jpg"
+- file: "assets/campus.jpg"
   title: "Digital Media Lab"
   subtitle: "A research group at the<br>University of Applied Sciences Upper Austria."
   more:
     label: "Get in touch"
-    link:  "/contact/"
+    link: "/contact/"
+
+- file: "projects/bambi/bambi-header.jpg"
+  title: "BAMBI"
+  subtitle: "The BAMBI project uses camera drones together with artificial intelligence to automatically monitor wildlife."
+  more:
+    label: "Learn more"
+    link: "/projects/bambi/"
 
 - file: "projects/catrina/catrina-approaching.jpg"
   title: "CATRINA"
   subtitle: "Exploring gender and diversity-specific aspects in the context of moral courage-driven actions<br />using a virtual reality game-based approach."
   more:
     label: "Learn more"
-    link:  "/projects/catrina/"
-
-- file: "projects/the-virtual-house-of-medusa/vhm-deepspace-01.jpg"
-  title: "The Virtual House of Medusa"
-  subtitle: "An interactive co-located VR installation for a museum context<br>to illustrate fragments of Roman wall paintings."
-  more:
-    label: "Learn more"
-    link:  "/projects/the-virtual-house-of-medusa/"
-
-- file: "projects/interplayces/interplayces-01.jpg"
-  title: "InterPlayces"
-  subtitle: "Creating intergenerational game and interaction designs<br>for the older and younger generation via a co-located playground."
-  more:
-    label: "Learn more"
-    link:  "/projects/interplayces/"
-
-- file: "projects/play-uc/playuc_energysafari.jpg"
-  title: "Play!UC"
-  subtitle: "Supporting participatory processes<br>in urban development projects through computer games."
-  more:
-    label: "Learn more"
-    link:  "/projects/play-uc/"
-
-- file: "projects/piedeck/piedeck-zagreb01.jpg"
-  title: "PIEdeck"
-  subtitle: "An experimental interactive installation<br>created for playful activities with multiple participants."
-  more:
-    label: "Learn more"
-    link:  "/projects/piedeck/"
-
-- file: "projects/invisible-walls/invisible-walls-audience.jpg"
-  title: "Invisible Walls"
-  subtitle: "An experimental interaction space<br>for bridging real and virtual worlds."
-  more:
-    label: "Learn more"
-    link:  "/projects/invisible-walls/"
+    link: "/projects/catrina/"
