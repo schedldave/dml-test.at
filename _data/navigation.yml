@@ -14,9 +14,9 @@
   link: "projects/"
   weight: 30
 
-#- name: "Publications"
-#  link: "publications/"
-#  weight: 40
+- name: "Publications"
+  link: "https://pure.fh-ooe.at/de/organisations/digital-media-lab/publications/"
+  weight: 40
 
 #- name: "Press"
 #  link: "press/"
@@ -25,7 +25,6 @@
 - name: "Partners"
   link: "partners/"
   weight: 60
-
 #- name: "Contact"
 #  link: "contact/"
 #  weight: 70

@@ -1,4 +1,4 @@
-- name: Dr. David Schedl 
+- name: Dr. David Schedl
   group: 1
   photo: david-schedl.jpg
   phone: +43 (0)50804 22127
@@ -11,7 +11,14 @@
   photo: michael-lankes.jpg
   phone: +43 (0)50804 22133
   email: michael.lankes@fh-hagenberg.at
-  projects: [Expanded Animation Symposium, The Virtual House of Medusa, GEMPLAY, InterPlayces, Mühlviertel Pur App]
+  projects:
+    [
+      Expanded Animation Symposium,
+      The Virtual House of Medusa,
+      GEMPLAY,
+      InterPlayces,
+      Mühlviertel Pur App,
+    ]
   areas: [Games and Playful Experiences]
 
 - name: Dr. Jürgen Hagler
@@ -19,188 +26,58 @@
   photo: juergen-hagler.jpg
   phone: +43 (0)50804 22124
   email: juergen.hagler@fh-hagenberg.at
-  projects: [Expanded Animation Symposium, The Virtual House of Medusa, Bike'N'Play, InterPlayces, PIEdeck]
+  projects:
+    [
+      Expanded Animation Symposium,
+      The Virtual House of Medusa,
+      Bike'N'Play,
+      InterPlayces,
+      PIEdeck,
+    ]
   areas: [Games and Playful Experiences]
 
 - name: Jeremiah Diephuis, MA
-  group: 2
+  group: 1
   photo: jeremiah-diephuis.jpg
   phone: +43 (0)50804 22122
   email: jeremiah.diephuis@fh-hagenberg.at
-  projects: [Expanded Animation Symposium, CATRINA, HektAR, The Virtual House of Medusa, Logistify, Play!UC, ZIEGE, Game Changer, PIEdeck, Cargo]
+  projects:
+    [
+      Expanded Animation Symposium,
+      CATRINA,
+      HektAR,
+      The Virtual House of Medusa,
+      Logistify,
+      Play!UC,
+      ZIEGE,
+      Game Changer,
+      PIEdeck,
+      Cargo,
+    ]
   areas: [Games and Playful Experiences]
 
 - name: Wolfgang Hochleitner, MSc
-  group: 2
+  group: 1
   photo: wolfgang-hochleitner.jpg
   phone: +43 (0)50804 22131
   email: wolfgang.hochleitner@fh-hagenberg.at
-  projects: [Expanded Animation Symposium, CATRINA, The Virtual House of Medusa, Bike'N'Play, GEMPLAY, BlindBits, ZIEGE, Mühlviertel Pur App]
-
-- name: Mag. art. Patrick Proier
-  group: 2
-  photo: patrick-proier.jpg
-  phone: +43 (0)50804 22130
-  email: patrick.proier@fh-hagenberg.at
-  projects: [Expanded Animation Symposium]
-
-- name: Huoston Rodrigues Batista, Ph.D.
-  group: 2
-  photo: huoston-rodrigues.jpg
-  phone: +43 (0)50804 22136
-  email: huoston.rodrigues@fh-hagenberg.at
-  projects: [Expanded Animation Symposium, CATRINA]
-
-- name: Christoph Schaufler, MA
-  group: 2
-  photo: christoph-schaufler.jpg
-  phone: +43 (0)50804 22132
-  email: christoph.schaufler@fh-hagenberg.at
-  projects: [Expanded Animation Symposium, CATRINA, BlindBits]
-
-- name: Dipl. Designer Alexander Wilhelm
-  group: 2
-  photo: alexander-wilhelm.jpg
-  phone: +43 (0)50804 22135
-  email: alexander.wilhelm@fh-hagenberg.at
-  projects: [Expanded Animation Symposium]
+  projects:
+    [
+      Expanded Animation Symposium,
+      CATRINA,
+      The Virtual House of Medusa,
+      Bike'N'Play,
+      GEMPLAY,
+      BlindBits,
+      ZIEGE,
+      Mühlviertel Pur App,
+    ]
+  areas: [Games and Playful Experiences]
 
 - name: Andrea Aschauer, MA
   group: 3
   photo: andrea-aschauer.jpg
   phone: +43 (0)50804 27166
   email: andrea.aschauer@fh-hagenberg.at
-  projects: [The Virtual House of Medusa, Bike'N'Play, PIEdeck]
-
-- name: Georgi Kostov, MSc
-  group: 5
-  photo: georgi-kostov.jpg
-  phone: +43 (0)50804 27166
-  email: georgi.kostov@fh-hagenberg.at
-  projects: [CATRINA, HektAR, The Virtual House of Medusa, Logistify, Play!UC, Game Changer, PIEdeck, Cargo]
-
-- name: Michael Ablinger, BSc
-  group: 5
-  photo: michael-ablinger.jpg
-  phone:
-  email:
-  projects: [Mühlviertel Pur App]
-
-- name: Victoria Absmann, MA
-  group: 5
-  photo: victoria-absmann.jpg
-  phone:
-  email:
-  projects:
-
-- name: Lukas Brunner, BSc
-  group: 5
-  photo: lukas-brunner.jpg
-  phone:
-  email:
-  projects:
-
-- name: Jens Cherukad, MA
-  group: 5
-  photo: jens-cherukad.jpg
-  phone:
-  email:
-  projects: [InterPlayces]
-
-- name: Andreas Friedl, MSc
-  group: 5
-  photo: andreas-friedl.jpg
-  phone:
-  email:
-  projects: [GEMPLAY, Game Changer]
-
-- name: Florian Friedrich, MA
-  group: 5
-  photo: florian-friedrich.jpg
-  phone:
-  email:
-  projects:
-
-- name: Nico Harather, MSc
-  group: 5
-  photo: nico-harather.jpg
-  phone:
-  email:
-  projects: [ZIEGE]
-
-- name: Andreas Kasch, MSc
-  group: 5
-  photo: andreas-kasch.jpg
-  phone:
-  email:
-  projects: [ZIEGE]
-
-- name: Michael Klammer, MA
-  group: 5
-  photo: michael-klammer.jpg
-  phone:
-  email:
-  projects:
-
-- name: Lorenz Krautgartner, MSc
-  group: 5
-  photo: lorenz-krautgartner.jpg
-  phone:
-  email:
-  projects: [Cargo]
-
-- name: Patrick Krinninger, BSc
-  group: 5
-  photo: patrick-krinninger.jpg
-  phone:
-  email:
-  projects: [Bike'N'Play]
-
-- name: Fabian Leutgeb, MSc
-  group: 5
-  photo: fabian-leutgeb.jpg
-  phone:
-  email:
-  projects: [Mühlviertel Pur App]
-
-- name: Gabriel Mittermair, MA
-  group: 5
-  photo: gabriel-mittermair.jpg
-  phone:
-  email:
-  projects: [CATRINA, HektAR, Logistify]
-
-- name: Daniel Rammer, MSc
-  group: 5
-  photo: daniel-rammer.jpg
-  phone:
-  email:
-  projects: [Bike'N'Play, GEMPLAY, BlindBits, Cargo]
-
-- name: Moritz Rührlinger, MA
-  group: 5
-  photo: moritz-ruehrlinger.jpg
-  phone:
-  email:
-  projects: [InterPlayces, GEMPLAY, ZIEGE]
-
-- name: Areen Said, MSc
-  group: 5
-  photo: areen-said.jpg
-  phone:
-  email:
-  projects: [BlindBits]
-
-- name: Philip Sonnleitner, BSc
-  group: 5
-  photo: philip-sonnleitner.jpg
-  phone:
-  email:
-  projects: [Play!UC, PIEdeck]
-
-- name: Sarah Troschl, MSc
-  group: 5
-  photo: sarah-troschl.jpg
-  phone:
-  email:
-  projects: [GEMPLAY]
+  projects: [BAMBI, The Virtual House of Medusa, Bike'N'Play, PIEdeck]
+  areas: [Games and Playful Experiences]

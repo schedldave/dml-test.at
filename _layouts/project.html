@@ -44,5 +44,31 @@ layout: page
 
     {{gallery}}
     {{content}}
+
+    <!-- Persons/Team -->
+    {% assign staffInProject = site.data.people | where_exp: "staff", "staff.projects contains page.title" %}
+    {% if staffInProject != empty %}
+    <h2 class="team">Team</h2>
+    <ul>
+      {% for staff in staffInProject %}
+      <li> {{staff.name}} </li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+
+    <!--{{ site.data.people | where_exp: "staff", "staff.projects contains page.title" }}-->
+
+    <!-- Website (if in meta) -->
+    {% if page.website %}
+    {% assign website = page.website %}
+    {% if website contains "http" %}
+    {% else %}
+    {% assign website = "http://" | append: website %}
+    {% endif %}
+    <h2>Website</h2>
+    <p>
+      <a href="{{ website }}">{{ page.website }}</a>
+    </p>
+    {% endif %}
   </div>
 </article>

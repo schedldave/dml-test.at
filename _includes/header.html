@@ -1,7 +1,7 @@
 <nav class="nav">
   <div class="logo">
     <a class="logo_link" href="{{'/' | prepend: site.baseurl | prepend: site.url}}">
-      {% include icons/pie.svg %}
+      {% include icons/dml.svg %}
     </a>
   </div>
   <div class="menu_toggle">
@@ -11,7 +11,14 @@
     {% assign navitems = site.data.navigation | sort: "weight" %}
     {% for navitem in navitems %}
       <li class="nav_item" role="presentation">
-        <a class="nav_link" href="{{navitem.link | prepend: '/' | prepend: site.baseurl}}" role="menuitem">{{navitem.name}}</a>
+        {% if navitem.link %}
+        {% assign navitemLink = navitem.link %}
+        {% if navitemLink contains "http" %}
+        {% else %}
+        {% assign navitemLink = navitemLink | prepend: '/' | prepend: site.baseurl %}
+        {% endif %}
+        <a class="nav_link" href="{{navitemLink}}" role="menuitem">{{navitem.name}}</a>
+        {%endif%}
       </li>
     {% endfor %}
   </ul>

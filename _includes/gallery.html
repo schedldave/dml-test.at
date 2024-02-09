@@ -4,6 +4,7 @@
   {% assign maindescription =  firstimage.description %}
   <img src="{{mainurl}}" alt="{{maindescription}}" />
 </div>
+{% if include.data.size > 1 %}
 <div class="gallery-preview">
   {% for item in include.data %}
   {% assign previewurl = item.preview |prepend: include.project | prepend: site.baseurl %}
@@ -20,3 +21,5 @@
   <div class="gallery-preview-item {{previewclass}}" style="background-image: url('{{previewurl}}')" data-target="{{target}}" data-desc="{{imagedescription}}" data-target-type={{type}}></div>
   {% endfor %}
 </div>
+{% endif %}
+
